@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Jhônata Costa from Brazil.<br><br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I code with Java =)</p>
+<p align="left">I'm Jhônata Costa from Brazil.<br><br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I code with Java =)<br>- 📧 Email: costajhonata8@gmail.com<br> </p>
 
 ###
 
